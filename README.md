@@ -7,7 +7,7 @@ crawler4tmall
 
 
 #### Manual ####
-- 1. please make sure the phantomjs and python have been instaled.
+- 1. please make sure the phantomjs and python have been installed.
 - 2. modify the url(get_item_num.js and get_item_ids.js) for item search.
 - 3. execute main.py
 
